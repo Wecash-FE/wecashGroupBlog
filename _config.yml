@@ -74,7 +74,7 @@ deploy:
 
 # admin
 admin:
-  deployCommand: './hexo-deploy.sh'
+  deployCommand: ./hexo-deploy.sh
   username: wecashc
   password_hash: $2a$08$xLeejUwvHNi1m58B5ZmA/OcQQEu6AWx5gf0uL0H/JwRt8Gn5YZWMe
   secret: wecashccc
